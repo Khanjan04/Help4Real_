@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Help4Real</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="help4real">Help4Real</string>
+    <string name="username">username</string>
+    <string name="todo">TODO</string>
+    <string name="description">description</string>
+
+</resources>
